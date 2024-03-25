@@ -32,6 +32,6 @@ Chương trình tìm cây khung nhỏ nhất bằng thuật toán Kruskal
 - Tải các thư viện đồ họa để chạy đồ họa trên C++;
 - Khởi chạy chương trình.
 
-**Demo chức năng chọn từ đồ thị:**
+**Demo chức năng chọn từ đồ thị:** <br>
 ![GIFMaker_me](https://github.com/samuel7232003/PBL1/assets/115569080/9099e05c-bac1-4f1b-9e43-e3b3cf5792ab)
 
